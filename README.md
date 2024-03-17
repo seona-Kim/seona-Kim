@@ -23,6 +23,6 @@
 </div>
 
 ### Project
-1. MBTIng
-2. LMC
-3. UsHouse
+1. MBTIng (소개팅 사이트)
+2. LMC (영화 커뮤니티)
+3. UsHouse (룸메이트 구인 사이트)
